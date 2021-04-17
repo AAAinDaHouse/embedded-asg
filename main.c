@@ -26,7 +26,7 @@ int main()
 {
 printf("Welcome to the student system...\n\n\n");
 printf("this is janjon changing this folder");
-
+printf("this is george here");
 
     return 0;
 }
